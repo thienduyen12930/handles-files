@@ -1,0 +1,5 @@
+Thach;Tam Ky;1000.0
+B;Da Nang;1200.0
+C;Ha Noi;1300.0
+D;Quang Nam;1700
+E;HCM;500.0
